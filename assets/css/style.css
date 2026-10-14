@@ -1,0 +1,104 @@
+/* Main page layout */
+body {
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.7;
+}
+
+/* Main title */
+h1 {
+    color: #7ee787;
+    border-bottom: 2px solid #30363d;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+/* Section headers */
+h2 {
+    color: #58a6ff;
+    margin-top: 35px;
+    border-left: 4px solid #58a6ff;
+    padding-left: 12px;
+}
+
+/* Project title */
+h3 {
+    color: #c9d1d9;
+}
+
+/* Links */
+a {
+    color: #58a6ff;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #79c0ff;
+    text-decoration: underline;
+}
+
+/* Lists */
+ul {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Paragraphs */
+p {
+    color: #c9d1d9;
+}
+
+/* Professional project block */
+.project-card {
+    border: 1px solid #30363d;
+    background-color: rgba(33, 38, 45, 0.45);
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+/* Horizontal rule styling */
+hr {
+    border: none;
+    border-top: 1px solid #30363d;
+    margin: 30px 0;
+}
+
+/* Code blocks */
+pre,
+code {
+    border-radius: 6px;
+}
+
+/* Slight emphasis for important text */
+strong {
+    color: #7ee787;
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+    body {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+    }
+}
