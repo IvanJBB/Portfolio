@@ -1,5 +1,7 @@
 /* Main page layout */
 body {
+    background-color: #161b22;
+    color: #c9d1d9;
     max-width: 950px;
     margin: 0 auto;
     padding: 20px;
