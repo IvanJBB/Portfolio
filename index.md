@@ -10,7 +10,7 @@
 
 ## Technical Background
 
-I am a student with a combined degree in Information Technology (Bachelor's degree) and Applied Computer Science (Master's degree) at Grand Valley State University. I have experience with python programming, python libraries, research, networking basics, Linux, and Github/Git. 
+I am a student with a combined degree in Information Technology (Bachelor's degree) and Applied Computer Science (Master's degree) at Grand Valley State University. I have experience with Python programming, Python libraries, research, networking basics, Linux, and Github/Git. 
 
 ## Projects 
 # Grand Valley State University: CIS 641 Project
