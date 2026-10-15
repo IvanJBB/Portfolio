@@ -18,7 +18,7 @@ I am a student with a combined degree in Information Technology (Bachelor's degr
 
 \- For this project, I am working individually on a 2D platformer game in Unity.
 
-[Check out my CIS 641 Project](https://github.com/IvanJBB/GVSU-CIS641-TeamIvan.git)
+[Check out my CIS 641 Project](https://ivanjbb.github.io/GVSU-CIS641-TeamIvan/)
 
 ## Favorite Meme
 
